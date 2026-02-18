@@ -16,3 +16,16 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+
+const axios = require("axios");
+
+app.get("/aqi", async (req, res) => {
+  try {
+    const response = await axios.get(
+      "https://api.waqi.info/feed/delhi/?token=demo"
+    );
+    res.json(response.data);
+  } catch (error) {
+    res.status(500).json({ error: "Failed to fetch AQI" });
+  }
+});
