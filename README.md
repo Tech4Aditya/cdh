@@ -8,13 +8,6 @@ A lightweight web app prototype for Delhi water-sprinkler drivers to:
 - Track each driver's daily contribution as impact points.
 - Generate an end-of-day leaderboard.
 
-## Run locally
-
-```bash
-python3 -m http.server 4173
-```
-
-Then open `http://localhost:4173`.
 
 ## How contribution scoring works
 
