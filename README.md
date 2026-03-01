@@ -1,4 +1,3 @@
-
 # Delhi Sprinkler Dispatch 
 
 A lightweight web app prototype for Delhi water-sprinkler drivers to:
