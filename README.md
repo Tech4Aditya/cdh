@@ -1,11 +1,5 @@
-# cdh
-# Delhi Sprinkler Dispatch (CDH)
-# Team Members:-
-1) Aditya Pandey
-2) Akriti Srivastava
-3) Dipansh Das
-4) Krishiv Chawla
-5) Manan Bhatia
+
+# Delhi Sprinkler Dispatch 
 
 A lightweight web app prototype for Delhi water-sprinkler drivers to:
 
