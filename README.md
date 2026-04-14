@@ -10,7 +10,7 @@ A lightweight web app prototype for Delhi water-sprinkler drivers to:
 
 ## How contribution scoring works
 
-- Every completed run asks for AQI reduction achieved (e.g. 20 points).
+- Every completed run asks for AQI reduction achieved (e.g. 40 points).
 - The entered reduction is added to that driver's score.
 - Leaderboard is sorted by highest total impact points.
 - Use **Close day and reset** to clear all scores for a new day.
